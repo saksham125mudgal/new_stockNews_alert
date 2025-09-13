@@ -1,0 +1,14 @@
+feedparser
+transformers
+requests
+beautifulsoup4
+
+pandas
+numpy
+datasets
+scikit-learn
+tqdm
+langchain_community
+accelerate
+sentencepiece
+protobuf
